@@ -75,7 +75,7 @@ basic odpověď: protože by to bylo horší, kdybychom neposlouchali
 
 *   Lidé jsou svobodní, jsou si rovni (po morální stránce, nikdo nikomu nevelí a všichni mají autoritu vynucovat), řídí se přirozeným zákonem (daný Bohem)
 *   lidé se radši boji vyhnou, než aby riskovali v boji
-*  jsou si relativně rovni
+*  jsou si relativně rovni 
 *   s penězi vzniká závist -> je nutná autorita, aby to udržela bez násilí
 *   \+ v přirozeném stavu můžou všichni vymáhat, ale každý je biased soudce
 Dvě pojednání o vládě (1689)
