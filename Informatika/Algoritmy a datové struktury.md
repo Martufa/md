@@ -18,3 +18,24 @@ Počítáme s:
 
 
 ### Prostorová náročnost
+
+## Řadící algoritmy
+- na vzestupné i sestupné seřazení
+
+### Quick sort
+
+### Merge sort
+![{\displaystyle \Theta (n\log n)}](https://wikimedia.org/api/rest_v1/media/math/render/svg/1b8781cea4259c3bd43204e02d08b9b9ce8fe0ff)
+
+### Select sort
+- pořád prochází pole a hledá aktuální minimum
+- kvadratická složitost
+
+## Haldy
+
+Heapify
+
+
+Relflexivní - každý prvek je sám sebou
+Antisymetrické - a >= b & b <= a -> a = b
+Tranzitivní 

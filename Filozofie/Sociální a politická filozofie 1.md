@@ -98,7 +98,6 @@ Peníze -> zásoby běžně omezeny trvanlivostí, peníze = chamtivost
 * radši vylepšujeme, než abychom válčili, učíme se spolupráci
 
 * * *
-
 Anarchismus
 -----------
 An-arché -- bez prvopříčiny, pralátky
@@ -136,3 +135,104 @@ Mechanismy pro kontrolu:
 4. penalizace
 #### Sociální komunismus
 - malé komunity stavějící na důvěře a reputaci pro spolupráci
+
+## Problém politické povinnosti
+- x autorita
+| Politická autorita  | Politická povinnost|
+| Proč by měla existovat moc? | Proč se podřídit, i když nesouhlasíš? 
+
+Možnosti:
+1. donucení - není racionální, nechceme
+2. racionální:
+	1. dal jsi implicitní souhlas
+		1. jenom existencí ve státě (Hobbes)
+		2. čerpáním výhod státu (Locke)
+	2. spravedlnost
+Lidé můžou bojkotovat zákony nenásilnou formou, mají právo i přes politickou povinnost
+
+---
+## Politická autorita - kdo by měl držet moc?
+dneska - lidé by si měli vládnout sami - demokracie
+Demokracie: 
+- vláda lidu
+- vláda nad lidem
+- vláda pro lidi
+
+Warren - demokracie líp než cokoli jiného pomáhá hodnotám sebeurčení (autonomii) a seberozvoji
+- životy jsou provázané, jsme jeden na druhém závislí
+- každý člověk má stejnou hodnotu
+Demokracie pomáhá soužití
+but - vždycky začne boj o moc, kdykoli jsou lidi spolu, existují ti, co mají pocit, že mohou rozhodovat za druhé (problém provázanosti)
+Demokracie nutí k sebevzdělávání - musíme učit se a rozumět, umět komunikovat pro dohodnutí a vyjádření preferencí
+
+### Platónský model
+- všechno moudrý vládce
+
+Participační demokracie
+- vše v rukou lidí
+### Rousseauova koncepce - hybridní model
+- svoboda je žití v tomto řádu
+- věřit se smí jen v to, co je povoleno = silná cenzura
+- volby + aktivní účast, hybridní koncept mezi přímou a zastupitelskou demokracií 
+- legislativa lid, exekutiva zvolená aristokracie
+- lidé se mají rozhodovat ve veřejném, ne soukromém zájmu
+- nucení ke svobodě
+- Rousseau zachraňuje instrumentální hodnotu demokracie na úkor vnitřní
+
+	Vnitřní hodnota: svoboda a rovnost
+	Instrumentální: blahobyt společnosti
+
+#### Participační demokracie - úpravy Rousseaouvy koncepce
+- participační demokracie: co největší možné zapojení, na všechno vyjadřujete názor
+- vyšší respekt k minoritám
+- vymáhání zákonů
+
+Jedině aktivní angažovanost je rovnost (všichni) a svoboda (můžou). Chceme to?
+##### Problémy
+- čas
+- riziko manipulace
+### Zastupitelská demokracie
+- J. S. Mill
+Funkce vlády
+- zlepšovat občany
+- spravovat věci veřejné
+
+Lidem se daří, když mají co nejvíc svobody, ALE ne participační demokracie, protože nepoučená volba je zlo
+Tyranie ne, málo svobody
+
+Nezávislost pilířů moci (zákonná, výkonná, soudní), které se vzájemně kontrolují, Mill se inspiruje americkými federalisty, ti zase Montesquiem (systém brzd a protiváh)
+++ omezení nákladů na pol. kampaně
+++ ministři bez platu
+
+1. veřejná volba, ne tajná (ufík)
+2. negramotní nevolí, vzdělaní mají víc hlasů
+
+**Četba**
+	Problém intenzivní (intense) minority a stálé (persistent) minority
+	můžou mít silnější zájmy než většina, ale stále prohrávat
+	minimální práva zaručena ústavou + o těch palčivých věcech, co pálí malé komunity, by měla rozhodovat malá komunita / minorita
+	nejlépe se rozhoduje v diskuzi, protože *my vás chceme poslouchat a pak vás zohledníme*
+Rachel Dolezal lol
+
+-----
+## Svoboda
+
+Mill
+Minimalizujeme moc demokratické vlády, nemá být absolutní, jinak jde o zvolenou tyranii
+Princip svobody / Princip újmy
+Vláda nás může omezit, škodili-li bychom jiným. Vlastní dobro není legit.
+Ne paternalismu -- výjimka děti a barbaři
+
+Svoboda má instrumentální hodnotu -> blahobyt
+
+??? co poškození budoucích generací?
+??? paternalismus -- reklamy mířené na rizikové skupiny, zneužívající strach
+
+Mill - liberalismus - nejpodstatnější proponent, princip újmy
+https://www.youtube.com/watch?v=0grwK97RSQ4
+
+
+
+### TO-DO: současné problémy svobody slova
+
+### TO-DO: feminismus a multikulturalismus

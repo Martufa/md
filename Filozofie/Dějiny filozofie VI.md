@@ -18,7 +18,7 @@ Spisy:
 
 Comte dělí na tři základní období dějin
 
-1.  Teologické ~ do roku 1300,predominantním vysvětlením jevů ve světě jsou božské entity
+1.  Teologické ~ do roku 1300, predominantním vysvětlením jevů ve světě jsou božské entity
 2.  Metafyzické ~ 1300 - 1800, vysvětluje sledované jevy metafyzickými systémy, které postrádají ověřitelnost, stále hraničí s náboženskou úctou
 3.  Pozitivní ~ 1800+staví na empirických datech, experimentech, stejné podmínky pro humanitní obory jako pro přírodovědné
 

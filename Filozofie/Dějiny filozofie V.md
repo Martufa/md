@@ -19,14 +19,14 @@ Immanuel Kant
 *   Kritika čistého rozumu (1781, 1787)
 *   Kritika praktického rozumu (1788)
 *   Kritika soudnosti (1790)  
-    O kritikách se ale v tomto kurzu bavit nebudeme, příliš mnoho obsahu. Díváme se na kratší a přístupnější díla, jako např:  
-    _Prologomena ke každé příští metafyzice, jež se bude moci státi vědou_ (1783),  
-    _Základy metafyziky mravů_ (1785),  
-    _K věčnému míru_ (1784, 1795) a  
-    _Co je osvícenství_ (1784).
+
+##### Další díla
+- _Prologomena ke každé příští metafyzice, jež se bude moci státi vědou_ (1783)
+- _Základy metafyziky mravů_ (1785)
+- _K věčnému míru_ (1784, 1795) 
+- _Co je osvícenství_ (1784)
 
   
-
 Prologomena
 -----------
 
