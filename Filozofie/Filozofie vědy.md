@@ -137,21 +137,11 @@ Otázka 1: "Co je to věda?"
     *   ? co jsou anomálie?
 *   disciplinární matice značí symbolická zobecnění, metody, vzorce, vzory, hodnoty vědy
 
-předparadigmatické období
+| předparadigmatické<br>období |  →  | normální věda |
+| :--------------------------: | :-: | :-----------: |
+|              ↑               |     |       ↓       |
+|          **krize**           |  ←  | **revoluce**  |
 
-→
-
-normální věda
-
-↑
-
-↓
-
-**revoluce**
-
-←
-
-**krize**
 
 ### Teorie výzkumných programů
 
@@ -166,7 +156,7 @@ normální věda
 
 ### Clusterový přístup
 
-*   vědda je to, co má znaky vědy :)
+*   věda je to, co má znaky vědy :)
 *   Mahler
 
 ### Minimální model vědy
