@@ -70,11 +70,12 @@ Co jsou hodnoty o sobě a co jsou instrumentální hodnoty? Ek. růst? Zaměstna
 * * *
 # Politická autorita
 
-Proč máme někoho vůbec poslouchat?  
--> protože by to bylo horší, kdybychom neposlouchali
- 
-##### Dvě složky politické autority:
+<!-- Když nad tím přemýšlím (a trochu shitpostuju), teorie společenské smlouvy korespondují k filozofickému principu pro přirozenou autoritu: Hobbes - nechceš válku, takže se podřídíš dobrovolně; Locke - potřebuješ zajistit práva na majetek, takže se podřídíš dobrovolně; Rousseau - je blbost se podřídit, divoši se mají líp, ale co uz, už jsme jednou tady a zpátky to nepůjde, takže se radši podřídíš dobrovolně.
+Anarchismus potom koresponduje s tím, když princip pro dobrovolné podřízení nemůžeš najít. -->
 
+Proč máme někoho vůbec poslouchat?  
+-> protože by to bylo horší, kdybychom neposlouchali 
+##### Dvě složky politické autority:
 1. přirozená – lidé se dobrovolně podvolují
 2. vynucovaná – stát sankcionuje ty, kteří se nepodvolují
 
@@ -117,7 +118,7 @@ Složky se vzájemně podporují
 
 ### Locke
 
-*  Lidé jsou svobodní, jsou si rovni (po morální stránce, nikdo nikomu nevelí a všichni mají autoritu vynucovat), řídí se přirozeným zákonem (daný Bohem)
+*  Lidé jsou svobodní, jsou si rovni (po morální stránce, nikdo nikomu nevelí a všichni mají autoritu vynucovat přirozený zákon), řídí se přirozeným zákonem (daný Bohem)
 *  lidé se radši boji vyhnou, než aby riskovali v boji  
 (Dvě pojednání o vládě (1689))
 
@@ -159,19 +160,18 @@ Mechanismy pro kontrolu:
 
 #### Zástupci anarchismu
 ##### William Godwin - filozofický anarchismus
-
 An Enquiry considering political justice
 * vláda nemusí být lepší, než anarchie, protože vlády mají tendenci kolabovat do despotických režimů
 ##### Michal Alexandrovič Bakunin
 - stát zotročuje - z lidí se stávají otrokáři a otroci
 * díla jako Bůh a stát, Nemorálnost státu,...
 ##### Kropotkin
-- ruský kníže, jeden z prvních proponenů anarchokomunismu
+- ruský kníže, jeden z prvních proponentů anarchokomunismu
 * Dobývání chleba
 * anarchokomunismus
 ##### Casey (četba)
 * Libertarian Anarchy: Against the State
-* **všechny** státy jsou zločinecké organizace, stát je nelegitmní
+* **všechny** státy jsou zločinecké organizace, stát je nelegitimní
 
 Anarchie - stav, ve kterém neexistuje instituce, která by cokoli vynucovala
 Anarchismus - teorie, která vnímá anarchii jako kýžený stav
@@ -198,7 +198,6 @@ Anarchismus - teorie, která vnímá anarchii jako kýžený stav
 | --------------------------- | ------------------------------------- |
 | Proč by měla existovat moc? | Proč se podřídit, i když nesouhlasíš? |
 
-
 **Možnosti**
 1. donucení - není racionální, nechceme
 2. racionální:
@@ -216,7 +215,6 @@ Lidé můžou bojkotovat zákony nenásilnou formou, mají právo i přes politi
 <!-- Locke defined political power as 'the right of making laws with penalties of death, and consequently all less penalties' 
 
 - So we can identify with both the anarchist's plea for the autonomy of the individual (CHCI SVOBODU! ŽIVOT BEZ ZÁKAZŮ!), and the authoritarian's claims for the power of the state(ALE CO KDYŽ NIKDO NEBUDE NIC ZAKAZOVAT OSTATNÍM? HELP...).
-
 -->
 - politická moc = možnost nařizovat ostatním a trestat je, pokud neuposlechnou (Wolff)
 ### Platónský model
@@ -232,19 +230,19 @@ Lidé můžou bojkotovat zákony nenásilnou formou, mají právo i přes politi
 - vláda nad lidem
 - vláda pro lidi
 
-Warren - demokracie líp než cokoli jiného pomáhá hodnotám sebeurčení (autonomii) a seberozvoji
+Warren - demokracie líp než cokoli jiného pomáhá hodnotám **sebeurčení** (autonomii) a **seberozvoji**
 - životy jsou provázané, jsme jeden na druhém závislí
 - každý člověk má stejnou hodnotu
 
 Demokracie pomáhá soužití, ale vždycky začne boj o moc, kdykoli jsou lidi spolu, existují ti, co mají pocit, že mohou rozhodovat za druhé (problém provázanosti)
 Demokracie nutí k sebevzdělávání - musíme učit se a rozumět, umět komunikovat pro dohodnutí a vyjádření preferencí
 
-Dvě vnitřní hodnoty demokracie – svoboda a rovnost.
+Dvě vnitřní hodnoty demokracie – **svoboda** a **rovnost**.
 Demokracie má epistemickou hodnotu; mapuje preference občanů.
 1. problém – nejde o preference, ale o zájem občanů
-* odpověď – v reálném světě jde o preference
-2. problém – průzkum trhu je efektivnější
-3. problém – smíšená motivace
+	-> v reálném světě jde o preference
+1. problém – průzkum trhu je efektivnější
+2. problém – smíšená motivace
 
 Nicolas de Condorcet – volba ve všeobecném zájmu.
 * při velké populaci téměř jisté, že volba bude správná
@@ -262,7 +260,6 @@ Nicolas de Condorcet – volba ve všeobecném zájmu.
 - věřit se smí jen v to, co je povoleno = silná cenzura
 - civilní náboženství
 - svoboda je žití v tomto řádu
-- věřit se smí jen v to, co je povoleno = silná cenzura
 - volby + aktivní účast, hybridní koncept mezi přímou a zastupitelskou demokracií 
 - legislativa lid, exekutiva zvolená aristokracie
 - lidé se mají rozhodovat ve veřejném, ne soukromém zájmu
@@ -317,13 +314,12 @@ we wish, provided that we do no harm to others.
 - Vláda nás může omezit, škodili-li bychom jiným. Vlastní dobro není legit.
 * neumožňuje paternalismus – výjimka děti a barbaři
 * znemožňuje perzekuci kvůli vyznání
-- Ne paternalismu -- výjimka děti a barbaři
+- Ne paternalismu -- výjimka děti a barbaři, 
+	--> reklamy mířené na rizikové skupiny, zneužívající strach -- utilitarismus povoluje ošetření, Mill ne
+	--> dezinformační kampaně jsou ok
+	
 
 Svoboda má instrumentální hodnotu -> blahobyt
-
-??? co poškození budoucích generací?
-??? paternalismus -- reklamy mířené na rizikové skupiny, zneužívající strach -- utilitarismus povoluje ošetření, Mill ne
-??? dezinformační kampaně
 
 ##### Proč je podle Milla lež ok?
 - může to být pravda
@@ -490,3 +486,27 @@ Koncepce:
 # Feminismus a multikulturalismus
 
 "Yay, jde to řešit přes lense normálního socpolu!"
+
+Obecně, žijeme v nespravedlivém světě. Věci jako wage gap pořád existují (v roce 2022 v Česku se jednalo o nějakých 18 %, uff 💀). Co s tím dělat?
+
+-> pozitivní diskriminace
+
+##### Výhody pozitivní diskriminace
+1. Actual rovnost příležitostí
+2. Rektifikace předchozích křivd (ženy, minority)
+3. Sociální utilita
+4. Symbolická hodnota (-> role models and stuff)
+5. Probourání stereotypu -> growth of the field
+
+##### Námitky
+1. Je to diskriminace
+	-> ok, ale *vždycky* diskriminujeme na základě něčeho (třeba přijímačky), je potřeba diskriminovat na relevantních faktorech
+2. Je to kontraproduktivní
+   (zvýhodněné skupiny jsou shazovány, mají pocit, že si to nezaslouží)
+	-> ok, ale my se tady snažíme o skutečnou rovnost příležitostí, když ti něco stálo v cestě, tvoje příležitosti nebyly rovné -> x fair, ale v konečném důsledku chceme pro práce lidi, kteří *už jsou schopnější*, pokud tohle budeme ignorovat, budeme pod sebou podřezávat větev -> pozitivní diskriminace je ok třeba ve školství, ale ne všude
+	-> sociální výhodnost: lidi se cítí víc comfy s vlastní skupinou
+
+Pozitivní diskriminace by nebyla používána v ideálním světě~
+***
+# Otázky, co mě zajímají, ale ještě nemám odpověď
+??? co říká Mill na poškození budoucích generací? Je jednání v jejich zájmu paternalismus?
