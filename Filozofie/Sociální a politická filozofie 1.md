@@ -278,6 +278,7 @@ Jedině aktivní angažovanost je rovnost (všichni) a svoboda (můžou). Chceme
 ##### Problémy
 - čas
 - riziko manipulace
+- neefektivita
 ### Zastupitelská demokracie
 - *J. S. Mill*
 
@@ -285,15 +286,22 @@ Jedině aktivní angažovanost je rovnost (všichni) a svoboda (můžou). Chceme
 1. zlepšovat občany
 2. spravovat věci veřejné
 
-Lidem se daří, když mají co nejvíc svobody, ALE ne participační demokracie, protože nepoučená volba je zlo
-Tyranie ne, málo svobody
+Lidem se daří, když mají co nejvíc svobody, ALE ne participační demokracie, protože nepoučená volba je zlo.
+Tyranie ne, málo svobody, vede k pasivitě.
 
-Nezávislost pilířů moci (zákonná, výkonná, soudní), které se vzájemně kontrolují, Mill se inspiruje americkými federalisty, ti zase Montesquiem (systém brzd a protiváh)
-++ omezení nákladů na pol. kampaně
-++ ministři bez platu
+Nezávislost pilířů moci (zákonná, výkonná, soudní), které se vzájemně kontrolují, Mill se inspiruje americkými federalisty, ti zase Montesquiem (systém brzd a protiváh).
 
-1. veřejná volba, ne tajná (ufík)
-2. negramotní nevolí, vzdělaní mají víc hlasů
+##### Jak zabránit tyranii?
+1. omezení nákladů na pol. kampaně
+2. ministři bez platu
+##### Jak mít actually dobré, zodpovědné hlasování?
+1. veřejná volba, ne tajná (ufík 💀) - zodpovědnost za vlastní hlasování
+2. negramotní nevolí, vzdělaní mají víc hlasů - Platón-like způsob
+
+
+> [!NOTE] Mill x Rousseau
+> Mill obětuje rovnost, aby zachránil instrumentální hodnotu demokracie, Rousseau obětuje svobodu, aby ji zachránil.
+
 
 **Četba**
 	Problém intenzivní (intense) minority a stálé (persistent) minority
