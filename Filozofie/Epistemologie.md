@@ -14,36 +14,19 @@ Pod epistemologii spadá např.:
     *   kognitivní psychologií
     *   kognitivními vědami
     *   vývojem AI
-    *   spociální epistemologií
+    *   sociální epistemologií
 
 Výsledky epistemologie bývaly praktické, posledních 300 let se jedná spíše o teoretické poznání poznání. Současná epistemologie sice může vytvářet teorie, ale už nemá moc je prosazovat. Neměli bychom ale podceňovat možnosti epistemologů, jsou totiž schopni měnit naše intuitivní soudy. Konkrétní situace, které známe, zažíváme nebo si představujeme jako myšlenkové experimenty, pak používají jako _munici_.
 
 Epistemologie se ptá na otázky deskriptivní ("kde se to vzalo?", "co to je?") i normativní ("jaké to má být?")
 
-Deskriptivní
-
-Normativní
-
-prolíná se s kognitivní psychologií
-
-epistemická hodnota
-
-jak vznikalo přesvědčení?
-
-krásný a krásnější (estetická) → rozumný a rozumnější (epi)
-
-kauzální původ
-
-kdy vzniká hodnota jistoty, můžeme ji přenést?
-
-popis jazyka: věděl nebo tušil?
-
-jak mají vypadat systémy, které používáme?
-
-klasifikační nástroje pojmové analýzy
-
-→ kdy je test průkazný, kdy máme povinnost nevědět...
-
+| Deskriptivní                          | Normativní                                                  |
+| ------------------------------------- | ----------------------------------------------------------- |
+| prolíná se s kognitivní psychologií   | epistemická hodnota                                         |
+| jak vznikalo přesvědčení?             | krásný a krásnější (estetická) → rozumný a rozumnější (epi) |
+| kauzální původ                        | kdy vzniká hodnota jistoty, můžeme ji přenést?              |
+| popis jazyka: věděl nebo tušil?       | jak mají vypadat systémy, které používáme?                  |
+| klasifikační nástroje pojmové analýzy | → kdy je test průkazný, kdy máme povinnost nevědět...       |
 _V tabulce jsou náhodné příklady, co spadá pod d. a n., obsahy na stejném řádku nemají nic společného._
 
 ### Výchozí hledisko
@@ -56,7 +39,7 @@ Je hodně věcí, které _víme_!
 *   "v noci je tma" -- obecné zákonitosti
 *   "gravitace je přitažlivá síla" -- vědecké zákonitosti
 *   "na večeři budu mít špagety" -- o budoucnosti
-¨*   "tohle jsem zapsala na přednášce epistemologie" -- o minulosti
+*   "tohle jsem zapsala na přednášce epistemologie" -- o minulosti
 *   "ten je naštvaný!" -- o jiných lidech
 *   "vymýšlení příkladů mě baví!" -- o sobě
 *   "2 + 2 = 4" -- o abstraktních entitách
@@ -65,7 +48,6 @@ Je hodně věcí, které _víme_!
 *   ...
 
 A přijímáme je mnoha způsoby!
-
 *   vnímání
 *   paměť
 *   svědectví
@@ -78,14 +60,13 @@ Tento seznam není úplný, někteří by přidali i jiné dobré zdroje informa
 těžko říct, jestli se věda má počítat jako "kanál" vnímání, nebo něco víc.
 
 ### Epistemologické otázky
-
 1.  Kdy někdo něco ví?
-*   věděl, tušil nebo vůbec nevěděl? jaká je role štěstí?
-*   znalost je nezávislá na vnitřních pocitech (metakognitivní stavy):  
-    i když něčemu věřím tak moc, že bych prodala rodinu do otroctví, neznamená to, že to skutečně vím  
-    pocit ≠ znalost
+	*   věděl, tušil nebo vůbec nevěděl? jaká je role štěstí?
+	*   znalost je nezávislá na vnitřních pocitech (metakognitivní stavy):  
+	    i když něčemu věřím tak moc, že bych prodala rodinu do otroctví, neznamená to, že to skutečně vím  
+	    pocit ≠ znalost
 
-2.  Co je dostatečné/dobré zvůvodnění?
+2.  Co je dostatečné/dobré zdůvodnění?
     *   často se přechází právě na tuto otázku z té předchozí
     *   co je znalost → co je dobrý důvod pro důvěru
       
