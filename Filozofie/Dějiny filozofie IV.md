@@ -922,7 +922,7 @@ Obrazy vědomí: percepce
 * **imprese** – živé a intenzivní probíhající vjemy, zdroj je hmotný svět, ale i vášně a emoce
 * **ideje** – nemají původ v bezprostřední zkušenosti, ale paměti nebo imaginaci
     * mdlé obrazy (faint images), ideje vycházejí z impresí (podobně jako Locke, zkušenost musí být první), jedná se o kopie
-![[Pasted image 20240618184754.png]]
+![[impressive.png]]
 ### Myšlení
 Laws of association, asociační principy
 * spojování představ, nemusí být vědomé
