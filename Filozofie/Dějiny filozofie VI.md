@@ -177,7 +177,7 @@ _„elen vital“_
 
 Odmítnutí propozice, že život je materialisticky redukovatelný, postuluje jako nutnost, že musí existovat něco více, než hmota, co zprostředkovává život. Toto nazývají vitalisté „elen vital“.
 
-Mezi hlavní představitele patří Henri Bergson.
+Mezi hlavní představitele patří **Henri Bergson**.
 
 Historismus
 -----------
